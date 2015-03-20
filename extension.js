@@ -53,8 +53,8 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
-        language: "english",
+        botName: "Lietuva 69 Botas",
+        language: "Lithuania",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
@@ -79,7 +79,7 @@
         lockskipReasons: [
             ["theme", "This song does not fit the room theme. "],
             ["op", "This song is on the OP list. "],
-            ["history", "This song is in the history. "],
+            ["history", "Atsiprašome ši daina neseniai buvo. "],
             ["mix", "You played a mix, which is against the rules. "],
             ["sound", "The song you played had bad sound quality or no sound. "],
             ["nsfw", "The song you contained was NSFW (image or sound). "],
@@ -92,11 +92,11 @@
         motd: "Temporary Message of the Day",
         filterChat: true,
         etaRestriction: false,
-        welcome: true,
+        welcome: true Sveiki atvykę į Lietuva 69 kambarį!,
         opLink: null,
         rulesLink: null,
         themeLink: null,
-        fbLink: null,
+        fbLink: https://www.facebook.com/pages/Lietuva69/321122348084777?ref=hl,
         youtubeLink: null,
         website: null,
         intervalMessages: [],
